@@ -4,3 +4,4 @@ Byte2: grep_is_your_friend
 Byte3: programmers
 Byte4: you_just_found_the_triwizard_cup
 Byte5: sdi2400163_1730233038_745266218_2_84_136_101_59788_22
+Byte6: unzipping_was_never_so_easy
